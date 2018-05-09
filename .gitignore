@@ -1,0 +1,5 @@
+# Xcode
+*.xcodeproj
+*.xcassets
+*.lproj
+*.plist
